@@ -1,0 +1,54 @@
+{
+  "id": 421516245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"BE",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        85632997,
+        404227357,
+        101810557,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12817463"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "locality_id":101810557,
+            "macroregion_id":404227357,
+            "postalcode_id":421516245,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":421516245,
+    "wof:lastmodified":1459821021,
+    "wof:name":"1674",
+    "wof:parent_id":"101810557",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

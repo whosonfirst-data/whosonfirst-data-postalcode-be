@@ -1,0 +1,69 @@
+{
+  "id": 1126113865,
+  "type": "Feature",
+  "properties": {
+    "begov:AREA":2500.73,
+    "begov:BEGIN_LIFE":"2015/10/05",
+    "begov:END_LIFE":null,
+    "begov:ID":"7406",
+    "begov:INSPIRE_ID":"BE.BRUSSELS.BRIC.ADM.MZ.19",
+    "begov:MU_ID":"7400",
+    "begov:MU_NAME_DU":"Brussel",
+    "begov:MU_NAME_FR":"Bruxelles",
+    "begov:MU_NAT_COD":"21004",
+    "begov:NAT_CODE":"1071",
+    "begov:PZ_ID":"25",
+    "begov:PZ_NAME_DU":"Anderlecht + Brussel (Dauwstraat)",
+    "begov:PZ_NAME_FR":"Anderlecht + Bruxelles (Rue de la Ros\u00e9e)",
+    "begov:PZ_NAT_COD":"1070",
+    "begov:VERSIONID":"1",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"4.3360470578,50.8463373225,4.33822925588,50.8466686756",
+    "geom:latitude":50.846506,
+    "geom:longitude":4.337192,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "src:geom":"begov",
+    "wof:belongsto":[
+        85681713,
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957
+    ],
+    "wof:breaches":[],
+    "wof:country":"BE",
+    "wof:created":1497559360,
+    "wof:geomhash":"51146b8bc6774e724dc6d43cf6b994b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "postalcode_id":1126113865,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1126113865,
+    "wof:lastmodified":1497559360,
+    "wof:name":"1071",
+    "wof:parent_id":101751573,
+    "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.336047057804182,
+    50.84633732245845,
+    4.338229255876963,
+    50.84666867556386
+],
+  "geometry": {"coordinates":[[[[4.33604705780418,50.84633732245845],[4.33625219370924,50.84646369802358],[4.33760161581048,50.84666867556386],[4.33822925587696,50.84659930301543],[4.33787776335422,50.84644904326007],[4.33782171968111,50.84644778826981],[4.33781426305605,50.84647298395289],[4.33778263335939,50.84648529142422],[4.33761752610127,50.84646048257095],[4.33748268887355,50.84644022108584],[4.33604705780418,50.84633732245845]]]],"type":"MultiPolygon"}
+}
